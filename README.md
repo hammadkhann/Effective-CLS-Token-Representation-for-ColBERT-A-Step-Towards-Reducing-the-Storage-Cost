@@ -1,1 +1,1 @@
-# Towards-lightweight-late-interaction-based-neural-reranking.
+# Towards-reducing-the-storage-cost-of-late-interation-reranker.
