@@ -1,1 +1,1 @@
-# Effective-Dense-Retrieval
+# Towards-lightweight-late-interaction-based-neural-reranking.
