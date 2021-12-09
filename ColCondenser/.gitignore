@@ -1,0 +1,24 @@
+experiments/
+checkpoints/
+data/
+logs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mac
+.DS_Store
+.idea/ColBERT.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+*.10k
+*.jsonl
+*.tsv
