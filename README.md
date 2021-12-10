@@ -1,3 +1,4 @@
-# Towards-richer-representation-of-CLS-token-for-Neural-Reranking.
+# Effective [CLS] Token Representation for ColBERT: A Step Towards Reducing the Storage Cost
+
 
 
